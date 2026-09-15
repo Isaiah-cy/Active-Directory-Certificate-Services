@@ -32,7 +32,7 @@ The project demonstrates that possessing a valid domain account or NTFS permissi
 
 ## 📄 Documentation
 
-The complete technical documentation, including the implementation steps, configurations, certificate enrollment, EFS testing, screenshots, and results, is available in the project documentation:
+The complete technical documentation, including the implementation steps, configurations, certificate enrollment, EFS testing, screenshots, and results, is available in the project documentation.
 
 ## 💡 Key Skills Demonstrated
 
